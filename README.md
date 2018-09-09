@@ -5,6 +5,9 @@
 2. python3 
 3. download download GloVe (https://github.com/stanfordnlp/GloVe)
 4. download PTB dataset
+# How to run?
+1. for train: $ python3 run.py --train
+2. for test: $ python3 run.py --test
 
 # Note
-# 有部分错误,代码持续更新中
+# 可以正常训练，但测评部分代码有效错误,持续updateing.
